@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: DHS Main Page
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+description: Providing elegant solutions for your home.
+intro_image: "images/mat/mat_bird_eye.jpg"
+# intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Welcome to Deka Home Solutions
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Providing elegant solutions for your home.

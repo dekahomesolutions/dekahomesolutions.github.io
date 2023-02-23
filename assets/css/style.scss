@@ -2,9 +2,9 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
+$primary: #121111;
+$primary-dark: #120908;
+$secondary: #ffffff;
 $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #fff6f8;
@@ -62,7 +62,7 @@ $sub-footer-text-color: $white;
 @import "pages/page-service";
 
 body {
-  font-size: 16px;
+  font-size: 22px;
   line-height: 1.2;
   font-family: $font-family-base;
   @include media-breakpoint-up(md) {
@@ -70,3 +70,4 @@ body {
     line-height: 1.3;
   }
 }
+
