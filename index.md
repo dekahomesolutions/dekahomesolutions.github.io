@@ -1,5 +1,5 @@
 ---
-title: DHS Main Page
+title: Deka Home Solutions
 layout: home
 description: Providing elegant solutions for your home.
 intro_image: "images/home_cartoon.jpeg"
